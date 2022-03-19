@@ -1,4 +1,4 @@
-# manideepamara.github.
+# manideepamara.github.io
 
 Following are the the demo pages to my recent works
 <ul>
